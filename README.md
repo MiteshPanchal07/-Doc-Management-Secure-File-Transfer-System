@@ -30,11 +30,14 @@ and session-based authentication. Files can be uploaded as public, private, or u
 ![UploadPublicly](https://github.com/user-attachments/assets/59a1ce1b-d3b2-44ad-9eca-089181982e50)
 ![UserPrivilege](https://github.com/user-attachments/assets/06c73a1a-0d90-4519-b1e2-96428087243d)
 ![UploadPrivately](https://github.com/user-attachments/assets/5086f108-e175-4ff3-bad7-d033adfdcb6f)
+![myuploads](https://github.com/user-attachments/assets/0ccf5646-146b-4bb2-93d6-31cf86815077)
 ![ShareFiles](https://github.com/user-attachments/assets/a1e93f73-7b7c-48e5-807c-134f3e4aec13)
 ![PrivateFiles](https://github.com/user-attachments/assets/4e03cef5-7918-4ef6-95e0-7c4acea6fca6)
 ![RecycleBin](https://github.com/user-attachments/assets/deca695a-1c95-4737-98e5-67bc800001ce)
 ![PrimiumPlans](https://github.com/user-attachments/assets/e852393d-c21d-455c-8d88-f735efd41ed6)
 ![Payment Successfully)](https://github.com/user-attachments/assets/8fa0dbec-991f-406d-a8f4-3507bbac7590)
+![contactPage](https://github.com/user-attachments/assets/163bccfd-855d-4260-9a66-d8b13bb061b6)
+
 
 
 
